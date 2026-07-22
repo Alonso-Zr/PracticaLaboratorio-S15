@@ -22,9 +22,6 @@ Para resolver este problema, aplicamos el patrón **Observer**.
 Por ende, se extrajo el comportamiento de notificación a una interfaz común (`Observer`).
 
 ## Diagrama UML de Clases
-
-
-![DiagramaUML-S15.jpeg](../../../Documents/DiagramaUML-S15.jpeg)
-
+<img width="1280" height="874" alt="DiagramaUML-S15" src="https://github.com/user-attachments/assets/a3f613ec-b797-4673-ac67-83e1000bf64b" />
 
 
